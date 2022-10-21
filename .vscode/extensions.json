@@ -1,7 +1,8 @@
 {
   "recommendations": [
-    "PKief.material-icon-theme",
+    "pkief.material-icon-theme",
     "rocketseat.theme-omni",
     "esbenp.prettier-vscode",
+    "manasxx.background-cover"
   ]
 }
